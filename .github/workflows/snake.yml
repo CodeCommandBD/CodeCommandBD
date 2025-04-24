@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake SVG
+        uses: Platane/snk@master
+        with:
+          github_user_name: CodeCommandBD
+          outputs: |
+            dist/snake.svg
+
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
