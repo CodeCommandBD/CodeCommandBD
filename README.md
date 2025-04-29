@@ -77,20 +77,11 @@ alt="figma logo" />
 [![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@CodeCommandBD)
 
 
-## 🟡 Pacman Contribution Graph
-<br clear="both">
+## 🐍 Snake Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg)
 
-###
 
-<img src="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
