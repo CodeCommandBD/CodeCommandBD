@@ -1,12 +1,12 @@
 ## Hi 👋! My name is Shanto and I'm a Web Developer from Bangladesh
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="funny gif" />
-📊 GitHub Stats
 
+📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=dracula&count_private=true"
 height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dracula"
 height="150" alt="Top Languages" />
+<img align="right" height="150" src="https://i.ibb.co.com/B27DYLX1/Purple-Modern-Gaming-Youtube-Banner-2.png" alt="funny gif" />
 </p>
 
 🛠️ My Tech Stack
