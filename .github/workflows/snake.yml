@@ -2,11 +2,11 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day
+    - cron: "0 0 * * *"  # runs every day
   workflow_dispatch:
 
 permissions:
-  contents: write  # 🔐 important for pushing to the output branch
+  contents: write  # gives GitHub Actions permission to push to 'output' branch
 
 jobs:
   generate:
@@ -18,7 +18,7 @@ jobs:
           github_user_name: CodeCommandBD
           outputs: |
             dist/pacman-contribution-graph.svg
-          theme: pacman  # 🎮 set pacman theme
+          theme: pacman
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
