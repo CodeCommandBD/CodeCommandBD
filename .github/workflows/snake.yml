@@ -1,25 +1,26 @@
-name: Generate Snake Animation
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"  # every day
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ allows GitHub Actions to push to branches
+  contents: write  # 🔐 important for pushing to the output branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake SVG
+      - name: Generate Pacman SVG
         uses: Platane/snk@v3
         with:
           github_user_name: CodeCommandBD
           outputs: |
-            dist/snake.svg
+            dist/pacman-contribution-graph.svg
+          theme: pacman  # 🎮 set pacman theme
 
-      - name: Commit and Push to Output Branch
+      - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
