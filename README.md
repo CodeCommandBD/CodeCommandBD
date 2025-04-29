@@ -101,7 +101,6 @@ alt="facebook logo" />
 height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dracula"
 height="150" alt="Top Languages" />
-<img align="right" height="150" src="https://i.ibb.co.com/B27DYLX1/Purple-Modern-Gaming-Youtube-Banner-2.png" alt="funny gif" />
 </p>
 
 
