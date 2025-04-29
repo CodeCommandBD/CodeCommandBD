@@ -2,7 +2,7 @@
   <img align="center" height="150" src="https://i.ibb.co.com/B27DYLX1/Purple-Modern-Gaming-Youtube-Banner-2.png" alt="funny gif" />
 </div>
   
-  
+  </br>
 <div align="center">
   <a href="https://www.linkedin.com/in/shanto-das-hello-word/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
@@ -18,14 +18,14 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeCommandBD.CodeCommandBD" />
 </div>  
-  
+  </br>
   
 <h1 align="center">hey there 👋</h1>
   
 
 <h3 align="left">👩‍💻  About Me</h3>
   
-
+</br>
   
 <p align="left">I'm Shanto from Dhaka, Bangladesh<br><br>- 🔭 I'm working as an aspiring front-end developer<br>- 📚 I'm currently learning JavaScript and React to enhance my web development skills<br>- ⚡ In my free time I enjoy coding, watching movies, and exploring motivational content on YouTube.</p>
   
@@ -34,7 +34,7 @@
 </br>
 
 🛠️ My Tech Stack
-
+</br>
 </br>
 
 <div align="left">
