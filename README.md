@@ -3,9 +3,15 @@
 </div>
   
   
+<div align="center">
+  <a href="https://www.linkedin.com/in/shanto-das-hello-word/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+</a>
+<a href="https://www.youtube.com/@CodeCommandBD" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+</a>
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/shanto-das-hello-word/)
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@CodeCommandBD)
+</div>
 
 
   
