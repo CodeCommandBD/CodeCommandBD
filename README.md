@@ -30,8 +30,12 @@
 <p align="left">I'm Shanto from Dhaka, Bangladesh<br><br>- 🔭 I'm working as an aspiring front-end developer<br>- 📚 I'm currently learning JavaScript and React to enhance my web development skills<br>- ⚡ In my free time I enjoy coding, watching movies, and exploring motivational content on YouTube.</p>
   
 
-  
+
+</br>
+
 🛠️ My Tech Stack
+
+</br>
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
@@ -94,6 +98,7 @@ alt="gimp logo" />
 alt="facebook logo" />
 </div>
 
+</br>
 
 📊 GitHub Stats
 <p align="center">
@@ -103,10 +108,15 @@ height="150" alt="GitHub Stats" />
 height="150" alt="Top Languages" />
 </p>
 
+</br>
+</br>
 
 ## 🐍 Snake Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg)
+
+</br>
+</br>
   
 <h3 align="left">🔥   My Stats :</h3>
   
