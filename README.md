@@ -78,8 +78,6 @@ alt="figma logo" />
 
 
 ## 🐍 Snake Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg)
-
 ![Pacman graph](https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg)
 
 
