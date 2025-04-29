@@ -1,15 +1,32 @@
-## Hi 👋! My name is Shanto and I'm a Web Developer from Bangladesh
+<div align="center">
+  <img align="center" height="150" src="https://i.ibb.co.com/B27DYLX1/Purple-Modern-Gaming-Youtube-Banner-2.png" alt="funny gif" />
+</div>
+  
+  
+<div align="center">
+    [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/shanto-das-hello-word/)
+    [![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@CodeCommandBD)
+</div>
 
-📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=dracula&count_private=true"
-height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dracula"
-height="150" alt="Top Languages" />
-<img align="right" height="150" src="https://i.ibb.co.com/B27DYLX1/Purple-Modern-Gaming-Youtube-Banner-2.png" alt="funny gif" />
-</p>
+  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeCommandBD.CodeCommandBD" />
+</div>  
+  
+  
+<h1 align="center">hey there 👋</h1>
+  
 
+<h3 align="left">👩‍💻  About Me</h3>
+  
+
+  
+<p align="left">I'm Shanto from Dhaka, Bangladesh<br><br>- 🔭 I'm working as an aspiring front-end developer<br>- 📚 I'm currently learning JavaScript and React to enhance my web development skills<br>- ⚡ In my free time I enjoy coding, watching movies, and exploring motivational content on YouTube.</p>
+  
+
+  
 🛠️ My Tech Stack
+
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
 alt="javascript logo" />
@@ -39,51 +56,56 @@ alt="css3 logo" />
 alt="figma logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40"
-            alt="firefox logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"
-            alt="github logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"
-            alt="jira logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"
-            alt="pycharm logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
-            alt="python logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
-            alt="vscode logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"
-            alt="html5 logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"
-            alt="google logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"
-            alt="gimp logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"
-            alt="facebook logo" />
+alt="firefox logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"
+alt="github logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40"
+alt="jira logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"
+alt="pycharm logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
+alt="python logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
+alt="vscode logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"
+alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"
+alt="google logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"
+alt="gimp logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"
+alt="facebook logo" />
 </div>
 
-🔗 Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/shanto-das-hello-word/)
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@CodeCommandBD)
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=dracula&count_private=true"
+height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dracula"
+height="150" alt="Top Languages" />
+<img align="right" height="150" src="https://i.ibb.co.com/B27DYLX1/Purple-Modern-Gaming-Youtube-Banner-2.png" alt="funny gif" />
+</p>
 
 
 ## 🐍 Snake Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg)
-
-
-
-
-
-
-
+  
+<h3 align="left">🔥   My Stats :</h3>
+  
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=CodeCommandBD&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+  
