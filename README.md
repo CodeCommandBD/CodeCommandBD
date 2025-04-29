@@ -78,7 +78,13 @@ alt="figma logo" />
 
 
 ## 🟡 Pacman Contribution Graph
-![Pacman graph](https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg)
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
