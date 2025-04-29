@@ -78,6 +78,7 @@ alt="figma logo" />
 
 
 ## 🟡 Pacman Contribution Graph
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph-dark.svg">
@@ -85,6 +86,11 @@ alt="figma logo" />
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
