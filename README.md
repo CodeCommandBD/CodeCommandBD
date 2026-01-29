@@ -3,6 +3,9 @@
 </div>
 <br/>
 <div align="center">
+  <a href="https://shantokumar.xyz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=20232A&logoColor=white&labelColor=61DAFB&style=for-the-badge" height="25" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/shanto-das-hello-word/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
@@ -52,12 +55,8 @@
 <br/>
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dracula&cache_seconds=1800" height="150" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=dark&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
 </p>
 <br/>
 <h3 align="left">🐍 Contributions</h3>
