@@ -52,8 +52,12 @@
 <br/>
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" height="150" alt="Top Languages" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=CodeCommandBD&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeCommandBD&layout=compact&theme=dracula&cache_seconds=1800" height="150" alt="Top Languages" />
+
 </p>
 <br/>
 <h3 align="left">🐍 Contributions</h3>
