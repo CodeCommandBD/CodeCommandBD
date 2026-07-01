@@ -28,7 +28,7 @@ Hi! I'm **Shanto**, a passionate **Frontend Developer** from Dhaka, Bangladesh �
 🌟 **A little more about me:**<br/>
 👨‍💻 I’m currently focused on mastering Advanced State Management and Web Performance.<br/>
 🎯 My daily mantra: `"Code, Learn, Debug, Repeat."`<br/>
-📧 Drop a hello: You can easily reach me via my [LinkedIn](https://www.linkedin.com/in/shanto-das-hello-word/).<br/>
+📧 Drop a hello: You can easily reach me via my [LinkedIn](https://www.linkedin.com/in/shanto-kumar-das/).<br/>
 ⚡ Outside of tech: I am an avid gamer and love creating content for CodeCommandBD.<br/>
 <br/>
 
