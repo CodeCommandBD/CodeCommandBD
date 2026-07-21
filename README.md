@@ -13,7 +13,7 @@ Hi! I'm **Shanto**, a passionate **Frontend Developer** from Dhaka, Bangladesh ğ
 ğŸ¤ **Let's Connect & Collaborate!**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shanto-das-hello-word/" target="_blank">
+  <a href="https://www.linkedin.com/in/shanto-kumar-das/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://www.youtube.com/@CodeCommandBD" target="_blank">
