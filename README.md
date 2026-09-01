@@ -2,13 +2,13 @@
   <img width="100%" src=".github/Chalkboard%20Classroom%20Banner.png" alt="Banner" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
-</p>
-
 <h1 align="center">Hi, I'm Shanto Kumar Das 👋</h1>
 
 <h3 align="center">Frontend Developer | React.js & Next.js</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
+</p>
 
 <h2>Welcome to my coding universe! 🚀</h2>
 
