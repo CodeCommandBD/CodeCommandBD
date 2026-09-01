@@ -28,7 +28,7 @@ Hi! I'm **Shanto**, a passionate **Frontend Developer** from Dhaka, Bangladesh �
 🌟 **A little more about me:**<br/>
 👨‍💻 I’m currently focused on mastering Advanced State Management and Web Performance.<br/>
 🎯 My daily mantra: `"Code, Learn, Debug, Repeat."`<br/>
-📧 Email: <a href="mailto:shantokumar00@gmail.com">shantokumar00@gmil.com</a>
+📧 Email: <a href="mailto:shantokumar00@gmail.com">shantokumar00@gmil.com</a> <br/>
 ⚡ Outside of tech: I am an avid gamer and love creating content for CodeCommandBD.<br/>
 <br/>
 
