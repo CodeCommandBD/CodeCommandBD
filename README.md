@@ -6,9 +6,13 @@
   <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
 </p>
 
+<h1 align="center">Hi, I'm Shanto Kumar Das 👋</h1>
+
+<h3 align="center">Frontend Developer | React.js & Next.js</h3>
+
 <h2>Welcome to my coding universe! 🚀</h2>
 
-Hi! I'm **Shanto**, a passionate **Frontend Developer** from Dhaka, Bangladesh 🇧🇩. I love solving problems and creating simple, beautiful web experiences for users. Whether I'm building interactive websites with **React** or fast web apps with **Next.js**, my goal is to bring ideas to life using clean code. Outside of coding, I share my tech journey and tutorials on my YouTube channel. Check out my [Portfolio](https://shantokumar.xyz) to see my latest projects!
+I'm a passionate **Frontend Developer** from Dhaka, Bangladesh 🇧🇩. I love solving problems and creating simple, beautiful web experiences for users. Whether I'm building interactive websites with **React** or fast web apps with **Next.js**, my goal is to bring ideas to life using clean code. Outside of coding, I share my tech journey and tutorials on my YouTube channel. Check out my [Portfolio](https://shantokumar.xyz) to see my latest projects!
 
 🤝 **Let's Connect & Collaborate!**
 
