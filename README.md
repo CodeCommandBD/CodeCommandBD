@@ -20,7 +20,6 @@
 </p>
 
 <ul>
-  <li>👋 Hi, I'm <a href="https://github.com/CodeCommandBD">Shanto</a>.</li>
   <li>🚀 Currently working with React.js, Next.js, and TypeScript.</li>
   <li>📚 Exploring advanced state management and web performance.</li>
   <li>💻 Building modern and responsive web applications.</li>
