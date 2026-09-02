@@ -31,7 +31,7 @@
   <li>🎥 I share my programming journey and tutorials on <a href="https://www.youtube.com/@CodeCommandBD">YouTube</a>.</li>
 </ul>
 
-##<b> FOLLOW ME ON SOCIALS:</b>
+<h2>Follow Me on Socials 🌐</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shanto-kumar-das/" target="_blank">
@@ -40,37 +40,33 @@
   <a href="https://www.youtube.com/@CodeCommandBD" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube logo" />
   </a>
-  </a>
 </div>
 <br/>
 
-
-
 <h2>Skills & Technologies 🛠️</h2>
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,py)](https://github.com/touhidcodes)
+<h3>Languages</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py" alt="Languages" /></a>
 
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,shadcn/ui)](https://github.com/touhidcodes)
+<h3>CSS Frameworks & Libraries</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks & Libraries" /></a>
 
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs)](https://github.com/touhidcodes)
+<h3>JavaScript Frameworks & Libraries</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=react,next,redux,nodejs" alt="JavaScript Frameworks & Libraries" /></a>
 
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/touhidcodes)
+<h3>Database & Model</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database & Model" /></a>
 
-### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/touhidcodes)
+<h3>Deployment Platform</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platform" /></a>
 
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps)](https://github.com/touhidcodes)
+<h3>Design & Graphics</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=figma" alt="Design & Graphics" /></a>
 
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+<h3>Tools & Technologies</h3>
+<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools & Technologies" /></a>
 
 <br/>
-
 <br/>
 
 <div align="center">
@@ -90,7 +86,6 @@
     </tr>
   </table>
 </div>
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
