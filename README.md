@@ -46,20 +46,31 @@
 
 
 
-**My Tech Arsenal 🛠️**
+<h2>Skills & Technologies 🛠️</h2>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,py)](https://github.com/touhidcodes)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,shadcn/ui)](https://github.com/touhidcodes)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs)](https://github.com/touhidcodes)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/touhidcodes)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/touhidcodes)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps)](https://github.com/touhidcodes)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+
+<br/>
+
 <br/>
 
 <div align="center">
