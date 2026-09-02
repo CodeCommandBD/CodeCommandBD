@@ -10,9 +10,26 @@
   <img src="https://raw.githubusercontent.com/shajon-dev/shajon-dev/main/assests/Rainbow.gif" width="100%">
 </p>
 
-<h2>Welcome to my coding universe! 🚀</h2>
+<h2>About Me 👨‍💻</h2>
 
-I'm a passionate **Frontend Developer** from Dhaka, Bangladesh 🇧🇩. I love solving problems and creating simple, beautiful web experiences for users. Whether I'm building interactive websites with **React** or fast web apps with **Next.js**, my goal is to bring ideas to life using clean code. Outside of coding, I share my tech journey and tutorials on my YouTube channel. Check out my [Portfolio](https://shantokumar.xyz) to see my latest projects!
+<p>
+  I'm a Frontend Developer who enjoys turning ideas into clean, responsive,
+  and user-friendly web applications. I mainly work with React.js, Next.js,
+  and TypeScript, and I'm always looking for ways to improve my problem-solving
+  and development skills.
+</p>
+
+<ul>
+  <li>👋 Hi, I'm <a href="https://github.com/CodeCommandBD">Shanto</a>.</li>
+  <li>🚀 Currently working with React.js, Next.js, and TypeScript.</li>
+  <li>📚 Exploring advanced state management and web performance.</li>
+  <li>💻 Building modern and responsive web applications.</li>
+  <li>🧩 Practicing JavaScript and TypeScript to improve my problem-solving skills.</li>
+  <li>🌐 Explore my <a href="https://shantokumar.xyz">Portfolio</a>.</li>
+  <li>💼 Connect with me on <a href="https://www.linkedin.com/in/shanto-kumar-das/">LinkedIn</a>.</li>
+  <li>📧 Feel free to reach out via <a href="mailto:shantokumar00@gmail.com">Email</a>.</li>
+  <li>🎥 I share my programming journey and tutorials on <a href="https://www.youtube.com/@CodeCommandBD">YouTube</a>.</li>
+</ul>
 
 🤝 **Let's Connect & Collaborate!**
 
@@ -29,12 +46,7 @@ I'm a passionate **Frontend Developer** from Dhaka, Bangladesh 🇧🇩. I love 
 </div>
 <br/>
 
-🌟 **A little more about me:**<br/>
-👨‍💻 I’m currently focused on mastering Advanced State Management and Web Performance.<br/>
-🎯 My daily mantra: `"Code, Learn, Debug, Repeat."`<br/>
-📧 Email: <a href="mailto:shantokumar00@gmail.com">shantokumar00@gmil.com</a> <br/>
-⚡ Outside of tech: I am an avid gamer and love creating content for CodeCommandBD.<br/>
-<br/>
+
 
 **My Tech Arsenal 🛠️**
 
