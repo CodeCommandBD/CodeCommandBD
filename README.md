@@ -31,7 +31,7 @@
   <li>🎥 I share my programming journey and tutorials on <a href="https://www.youtube.com/@CodeCommandBD">YouTube</a>.</li>
 </ul>
 
-🤝 **Let's Connect & Collaborate!**
+##<b> FOLLOW ME ON SOCIALS:</b>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shanto-kumar-das/" target="_blank">
@@ -40,8 +40,6 @@
   <a href="https://www.youtube.com/@CodeCommandBD" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube logo" />
   </a>
-  <a href="https://shantokumar.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-20232A?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Portfolio" />
   </a>
 </div>
 <br/>
