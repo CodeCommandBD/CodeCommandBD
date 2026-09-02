@@ -20,14 +20,14 @@
 </p>
 
 <ul>
-  <li>🚀 Currently working with React.js, Next.js, and TypeScript.</li>
-  <li>📚 Exploring advanced state management and web performance.</li>
-  <li>💻 Building modern and responsive web applications.</li>
-  <li>🧩 Practicing JavaScript and TypeScript to improve my problem-solving skills.</li>
-  <li>🌐 Explore my <a href="https://shantokumar.xyz">Portfolio</a>.</li>
-  <li>💼 Connect with me on <a href="https://www.linkedin.com/in/shanto-kumar-das/">LinkedIn</a>.</li>
-  <li>📧 Feel free to reach out via <a href="mailto:shantokumar00@gmail.com">Email</a>.</li>
-  <li>🎥 I share my programming journey and tutorials on <a href="https://www.youtube.com/@CodeCommandBD">YouTube</a>.</li>
+  <li> Currently working with React.js, Next.js, and TypeScript.</li>
+  <li> Exploring advanced state management and web performance.</li>
+  <li> Building modern and responsive web applications.</li>
+  <li> Practicing JavaScript and TypeScript to improve my problem-solving skills.</li>
+  <li> Explore my <a href="https://shantokumar.xyz">Portfolio</a>.</li>
+  <li> Connect with me on <a href="https://www.linkedin.com/in/shanto-kumar-das/">LinkedIn</a>.</li>
+  <li> Feel free to reach out via <a href="mailto:shantokumar00@gmail.com">Email</a>.</li>
+  <li> I share my programming journey and tutorials on <a href="https://www.youtube.com/@CodeCommandBD">YouTube</a>.</li>
 </ul>
 
 <h2>Follow Me on Socials 🌐</h2>
