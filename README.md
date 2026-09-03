@@ -16,7 +16,8 @@
   I'm a Frontend Developer who enjoys turning ideas into clean, responsive,
   and user-friendly web applications. I mainly work with React.js, Next.js,
   and TypeScript, and I'm always looking for ways to improve my problem-solving
-  and development skills.
+  and development skills. Currently working toward becoming a Full Stack
+  Developer by strengthening my backend skills alongside frontend development.
 </p>
 
 <ul>
