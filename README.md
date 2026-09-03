@@ -45,25 +45,25 @@
 <h2>Skills & Technologies 🛠️</h2>
 
 <h3>Languages</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py" alt="Languages" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py" alt="Languages" /></a>
 
 <h3>CSS Frameworks & Libraries</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks & Libraries" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks & Libraries" /></a>
 
 <h3>JavaScript Frameworks & Libraries</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=react,next,redux,nodejs" alt="JavaScript Frameworks & Libraries" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=react,next,redux,nodejs" alt="JavaScript Frameworks & Libraries" /></a>
 
 <h3>Database & Model</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database & Model" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database & Model" /></a>
 
 <h3>Deployment Platform</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platform" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=vercel,netlify" alt="Deployment Platform" /></a>
 
 <h3>Design & Graphics</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=figma" alt="Design & Graphics" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=figma" alt="Design & Graphics" /></a>
 
 <h3>Tools & Technologies</h3>
-<a href="https://github.com/touhidcodes"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools & Technologies" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" alt="Tools & Technologies" /></a>
 
 <br/>
 <br/>
