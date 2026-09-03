@@ -46,7 +46,7 @@
 <h2>Skills & Technologies 🛠️</h2>
 
 <h3>Languages</h3>
-<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py" alt="Languages" /></a>
+<a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,py,cpp" alt="Languages" /></a>
 
 <h3>CSS Frameworks & Libraries</h3>
 <a href="https://github.com/shantokumarBD"><img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks & Libraries" /></a>
