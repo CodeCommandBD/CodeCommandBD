@@ -73,15 +73,15 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding: 4px;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeCommandBD&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantokumarBD&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
       </td>
     </tr>
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 4px; width: 50%;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeCommandBD&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shantokumarBD&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
       </td>
       <td align="center" style="border: none; padding: 4px; width: 50%;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeCommandBD&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shantokumarBD&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
       </td>
     </tr>
   </table>
