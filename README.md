@@ -25,21 +25,15 @@
   <li> Exploring advanced state management and web performance.</li>
   <li> Building modern and responsive web applications.</li>
   <li> Practicing JavaScript and TypeScript to improve my problem-solving skills.</li>
-  <li> Explore my <a href="https://shantokumar.xyz">Portfolio</a>.</li>
-  <li> Connect with me on <a href="https://www.linkedin.com/in/shanto-kumar-das/">LinkedIn</a>.</li>
-  <li> Feel free to reach out via <a href="mailto:shantokumar00@gmail.com">Email</a>.</li>
-  <li> I share my programming journey and tutorials on <a href="https://www.youtube.com/@CodeCommandBD">YouTube</a>.</li>
 </ul>
 
-<h2>Follow Me on Socials 🌐</h2>
-
+<h2>Connect with Me 🌐</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/shanto-kumar-das/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.youtube.com/@CodeCommandBD" target="_blank">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube logo" />
-  </a>
+  <a href="https://shantokumar.xyz" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shanto-kumar-das/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" /></a>
+  <a href="https://www.facebook.com/helloword5000/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25" alt="Facebook logo" /></a>
+  <a href="https://www.youtube.com/@CodeCommandBD" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube logo" /></a>
+  <a href="mailto:shantokumar00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" /></a>
 </div>
 <br/>
 
