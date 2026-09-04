@@ -68,7 +68,12 @@
 <br/>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none; padding: 4px;">
+         <img src="https://github-readme-streak-stats.herokuapp.com?user=shantokumarBD&theme=dracula&hide_border=true" alt="streak stats" width="100%" style="max-width: 100%;" />
+      </td>
+    </tr>
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding: 4px;">
          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantokumarBD&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
