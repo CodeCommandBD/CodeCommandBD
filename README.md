@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 </p>
 <p align="center">
-
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -71,22 +70,27 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; width: 100%;">
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding: 4px;">
-         <img src="https://github-readme-streak-stats.herokuapp.com?user=shantokumarBD&theme=dracula&hide_border=true" alt="streak stats" width="100%" style="max-width: 100%;" />
+         <img src="https://github-readme-streak-stats.herokuapp.com?user=shantokumarBD&background=0D1117&border=A97DFF&stroke=A97DFF&ring=A97DFF&fire=A97DFF&currStreakNum=A97DFF&sideNums=C9D1D9&currStreakLabel=A97DFF&sideLabels=C9D1D9&dates=8B949E" alt="streak stats" width="100%" style="max-width: 100%;" />
       </td>
     </tr>
     <tr style="border: none;">
       <td colspan="2" align="center" style="border: none; padding: 4px;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantokumarBD&theme=dracula" alt="profile details" width="100%" style="max-width: 100%;" />
+         <img src="https://github-stats-extended.vercel.app/api?username=shantokumarBD&show_icons=true&hide_border=false&title_color=A97DFF&icon_color=A97DFF&border_color=A97DFF&bg_color=0D1117&text_color=C9D1D9&ring_color=A97DFF" alt="github stats with grade" width="100%" style="max-width: 100%;" />
       </td>
     </tr>
     <tr style="border: none;">
-      <td align="center" style="border: none; padding: 4px; width: 50%;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shantokumarBD&theme=dracula" alt="repos per language" width="100%" style="max-width: 100%;" />
-      </td>
-      <td align="center" style="border: none; padding: 4px; width: 50%;">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shantokumarBD&theme=dracula" alt="most commit language" width="100%" style="max-width: 100%;" />
+      <td colspan="2" align="center" style="border: none; padding: 4px;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shantokumarBD&title_color=A97DFF&icon_color=A97DFF&border_color=A97DFF&bg_color=0D1117&text_color=C9D1D9" alt="profile details" width="100%" style="max-width: 100%;" />
       </td>
     </tr>
+    <!-- <tr style="border: none;">
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shantokumarBD&title_color=A97DFF&icon_color=A97DFF&border_color=A97DFF&bg_color=0D1117&text_color=C9D1D9&chart_color=A97DFF" alt="repos per language" width="100%" style="max-width: 100%;" />
+      </td>
+      <td align="center" style="border: none; padding: 4px; width: 50%;">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shantokumarBD&title_color=A97DFF&icon_color=A97DFF&border_color=A97DFF&bg_color=0D1117&text_color=C9D1D9&chart_color=A97DFF" alt="most commit language" width="100%" style="max-width: 100%;" />
+      </td>
+    </tr> -->
   </table>
 </div>
 
@@ -95,7 +99,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CodeCommandBD/CodeCommandBD/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shantokumarBD/shantokumarBD/output/snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
@@ -103,7 +107,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeCommandBD.CodeCommandBD" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shantokumarBD.shantokumarBD" alt="Visitor Badge"/>
 </div>
 <br/>
 <p align="center">
